@@ -14,6 +14,7 @@ pipeline {
         stage('deploy') {
             steps {
                  sh './gradlew clean test'
+                 sh 'sleep 120000'
             }
         }
     }
