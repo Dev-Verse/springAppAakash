@@ -1,0 +1,11 @@
+type:
+  service
+
+title:
+  springAppAakash
+
+description:
+  This is the desc
+
+relatedSystem:
+  Auditing
